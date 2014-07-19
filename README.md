@@ -1,0 +1,4 @@
+modulejs
+========
+
+another simple AMD
